@@ -1,0 +1,17 @@
+body{
+    background-color: purple;
+    text-align: center;
+}
+
+h1{
+    color: orange;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 5px 5px 15px black;
+}
+
+
+img{
+    width: 300px;
+    border-radius:15px;
+    box-shadow: 5px 5px 15px black;
+}
